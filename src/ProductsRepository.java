@@ -1,4 +1,4 @@
-package com.crudapplication.beststore.productsrepository;
+package com.crudapplicaton.beststore.productsrepository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
