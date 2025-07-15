@@ -1,4 +1,4 @@
-package com.crudapplication.beststore.models;
+package com.crudapplicaton.beststore.models;
 
 import org.springframework.web.multipart.MultipartFile;
 
