@@ -1,4 +1,4 @@
-package com.crudapplication.beststore;
+package com.crudapplicaton.beststore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
