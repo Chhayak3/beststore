@@ -1,4 +1,4 @@
-package com.crudapplication.beststore;
+package com.crudapplicaton.beststore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
