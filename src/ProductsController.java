@@ -1,4 +1,4 @@
-package com.crudapplication.beststore.controllers;
+package com.crudapplicaton.beststore.controllers;
 
 import java.io.InputStream;
 import java.nio.file.*;
